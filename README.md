@@ -6,7 +6,7 @@ The goal of this project is to determine if there is a bias from paid Amazon Vin
 # Results
 
 <p align="center"> 
-    Initial Data-frame 
+    Initial Data-frame Before any Filters are Added
   <img alt = 'Initial Data-frame' src="images/initial_df.png" width = 70% />
 </p>
 
